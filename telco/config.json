@@ -1,0 +1,64 @@
+{
+  "dbconfig": [
+    {
+      "host": "10.0.0.218",
+      "user": "aisurgeclick",
+      "password": "M9YfSU7P1R",
+      "port": "9000",
+      "database": "aisurgeclickdb"
+    }
+  ],
+  "themeSettings": [
+    {
+      "logo": "https://devtest-ui.ai-surge.cloud/assets/img/ai-surge-logo_1.png",
+      "colour": "#751151",
+      "title": "Telco Dashboard",
+      "description": "Welcome to Telco Dashboard",
+      "favicon": "assets/images/favicon.ico",
+      "background_image": "assets/images/bg.png",
+      "company_name": "Aisurge Systems"
+    }
+  ],
+  "number_format": ".",
+  "color_palette": {
+    "palette": "orange_palette",
+    "all possible palettes": [
+      "orange_palette",
+      "red_palette",
+      "blue_palette",
+      "diverging_palette"
+    ]
+  },
+  "tabs": [
+    {
+      "tabname": "Home",
+      "status": true
+    },
+    {
+      "tabname": "Cockpit",
+      "status": true
+    },
+    {
+      "tabname": "Top Perfomers",
+      "status": true
+    },
+    {
+      "tabname": "Dropped Calls",
+      "status": true
+    },
+    {
+      "tabname": "Adhoc Analysis",
+      "status": true
+    },
+    {
+      "tabname": "Seasonality Analysis",
+      "status": true
+    },
+    {
+      "tabname": "Top 4 KPIs Trends (MTD/YTD)",
+      "status": true
+    }
+  ],
+  "tablename": "telco_matview"
+}
+

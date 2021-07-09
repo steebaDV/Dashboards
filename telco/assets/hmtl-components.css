@@ -1,0 +1,32 @@
+.border-test {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.border {
+    border: 1px;
+    width: 100%;
+    margin: auto;
+}
+
+.raacom-hr {
+  border: 1px solid;
+  max-width: 900px;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+h6 {
+ font-size: 13px;
+ color: #007AB9;
+ text-align: left;
+ font-weight: bold;
+ margin-bottom: -3px;
+ font-family: Lato-Regular;
+}
+
+
+
+

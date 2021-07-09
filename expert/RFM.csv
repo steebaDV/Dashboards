@@ -1,0 +1,31 @@
+There are 125 possible combinations of profile.,,,,,,
+"Then, we regroup those profiles into segments:",,,,,,
+,,,,,,
+Monetary,,,,,,
+,,,,,,
+Recency r,Frequency r,5,4,3,2,1
+5,5,Champions,Champions,Loyal,Potential Loyalist,Potential Loyalist
+,4,Champions,Champions,Loyal,Potential Loyalist,Potential Loyalist
+,3,Potential Loyalist,Potential Loyalist,Potential Loyalist,Potential Loyalist,Potential Loyalist
+,2,Promising,Promising,Promising,New Customers,New Customers
+,1,Promising,Promising,Promising,New Customers,New Customers
+4,5,Champions,Champions,Loyal,Potential Loyalist,Potential Loyalist
+,4,Champions,Champions,Loyal,Potential Loyalist,Potential Loyalist
+,3,Potential Loyalist,Potential Loyalist,Potential Loyalist,Potential Loyalist,Potential Loyalist
+,2,Promising,Promising,Promising,New Customers,New Customers
+,1,Promising,Promising,Promising,New Customers,New Customers
+3,5,Loyal,Loyal,Potential Loyalist,Potential Loyalist,Potential Loyalist
+,4,Loyal,Loyal,Need Attention,Need Attention,Need Attention
+,3,Need Attention,Need Attention,Need Attention,Need Attention,About to Sleep
+,2,Need Attention,Need Attention,Need Attention,About to Sleep,About to Sleep
+,1,Need Attention,Need Attention,About to Sleep,About to Sleep,About to Sleep
+2,5,At Risk,At Risk,At Risk,About to Sleep,About to Sleep
+,4,At Risk,At Risk,At Risk,About to Sleep,About to Sleep
+,3,At Risk,At Risk,At Risk,About to Sleep,About to Sleep
+,2,At Risk,At Risk,Hibernating,Hibernating,About to Sleep
+,1,At Risk,At Risk,Hibernating,Hibernating,Hibernating
+1,5,Cannot Lose Them,Cannot Lose Them,Hibernating,Hibernating,Lost
+,4,Cannot Lose Them,Cannot Lose Them,Hibernating,Hibernating,Lost
+,3,Cannot Lose Them,Cannot Lose Them,Hibernating,Hibernating,Lost
+,2,Cannot Lose Them,Cannot Lose Them,Hibernating,Lost,Lost
+,1,Cannot Lose Them,Cannot Lose Them,Lost,Lost,Lost

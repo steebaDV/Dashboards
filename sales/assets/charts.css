@@ -1,0 +1,15 @@
+ /*.hovertext text {
+    font-size: 100px !important;
+       Cambria Math
+
+
+
+	font-family: Proxima Nova Regular !important;
+	
+}
+*/
+
+/* Hide Plotly ToolBar */
+.modebar {
+display: none !important;
+}

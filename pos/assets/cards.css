@@ -1,0 +1,34 @@
+.card {
+    text-align: center;
+}
+
+.card .card-title {
+    text-align: left;
+    font-weight: lighter;
+}
+
+.card .card-value {
+    font-size: 2rem;
+}
+
+.card .card-target {
+    font-size: 1rem;
+    font-weight: lighter;
+}
+
+.card .card-diff-down {
+    color: red;
+}
+
+.card .card-diff-up {
+    color: green;
+}
+
+
+.card .card-medium {
+    width: 40rem
+}
+
+.card .card-small {
+    width: 20rem
+}
